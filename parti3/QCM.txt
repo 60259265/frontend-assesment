@@ -1,0 +1,20 @@
+-a)HTML
+-b)<a>
+-d)document.getElementById('element')
+-b)color
+-a)alt
+-b)body
+-a) <script>...</script>
+- a) font-size
+-a) alert()
+-a) <ul>
+-a) // Comment  b) /* Comment */
+-b) innerHTML()
+-a) padding
+-a) <table>
+-b) text-align: center;
+-a) random()
+-a) class
+-a) <form>
+-c) let myVariable;
+-

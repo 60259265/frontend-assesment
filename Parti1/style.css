@@ -1,0 +1,98 @@
+body{
+    
+}
+header{
+    background-color: rgb(70,101,127);
+}
+h3{
+    margin: 20;
+    padding: auto;
+    text-align: end;
+    color: white;
+}
+.head{
+    text-align: center;
+    color: white;
+    margin: 20px 100px auto;
+}
+.head.boutton{
+    color: gray;
+    width: 50pxs
+    border: 5px 0px 0px 0px;
+
+
+
+}
+
+.section{
+    background-color: gray;
+    margin: auto;
+    padding: auto;
+    }
+h2{
+    color: #f5a819;
+}
+.section1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 20px auto ;
+    gap: 20px;
+    font-size: 15px;
+    
+    
+    
+}
+.section2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 10px ;
+    gap: 20px;
+    font-size: 15px;
+
+}
+.section3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 10px ;
+    gap: 20px;
+    font-size: 15px;
+}
+.cadre1{
+    background-color: white;
+    border: 2px;
+}
+.cadre2{
+    background-color: white;
+    border: 2px;
+}
+.cadre3{
+    background-color: white;
+    border: 2px;
+}
+.cadre4{
+    background-color: white;
+    border: 2px;
+}
+.cadre5{
+    background-color: white;
+    border: 2px;
+}
+.cadre6{
+    background-color: white;
+    border: 2px;
+}
+.cadre7{
+    background-color: white;
+    border: 2px;
+}
+.cadre8{
+    background-color: white;
+    border: 2px;
+}
+.cadre9{
+    background-color: white;
+    border: 2px;
+}
